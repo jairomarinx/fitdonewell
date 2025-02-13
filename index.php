@@ -46,7 +46,8 @@
 
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark p-3 p-lg-0 px-lg-5">
                     <a href="index.html" class="navbar-brand d-block d-lg-none">
-                        <h1 class="m-0   fit-font">Fit.Done.Well</h1>
+                        <h1 class="m-0   fit-font">Fit.Done.Well <img src="/img/logo.png"  class="img-fluid" alt=""></h1>
+                        
                     </a>
                     <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                         <span class="navbar-toggler-icon"></span>
@@ -55,10 +56,12 @@
                         <div class="navbar-nav mr-auto py-0">
                             <a href="index.html" class="nav-item nav-link active">Home</a>
                             <a href="about.html" class="nav-item nav-link">About</a>
-                            <a href="class.html" class="nav-item nav-link">Classes</a>
-                            <a href="team.html" class="nav-item nav-link">Trainers</a>
+                            <a href="class.html" class="nav-item nav-link">Coaches</a>
+                            <a href="team.html" class="nav-item nav-link">Events</a>
+                            <a href="team.html" class="nav-item nav-link">Shop</a>
+
                             <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                                 <div class="dropdown-menu rounded-0 m-0">
                                     <a href="blog.html" class="dropdown-item">Blog Grid</a>
                                     <a href="detail.html" class="dropdown-item">Blog Detail</a>
@@ -77,7 +80,7 @@
 
 
     <!-- Carousel Start -->
-    <div class="container-fluid p-0 mb-5">
+    <div class="container-fluid p-0 mb-0">
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
