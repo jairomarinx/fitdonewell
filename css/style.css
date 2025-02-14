@@ -11,7 +11,7 @@
   }
 
 :root {
-    --primary: #FB5B21;
+    --primary: #FCD804;
     --secondary: #BDBDBF;
     --light: #F4F5F8;
     --dark: #222429;
@@ -229,4 +229,26 @@ h6,
     .credit {
         background: var(--primary);
     }
+}
+
+.btn-primary {
+    background: #FCD804;
+    border: 2px solid var(--primary);
+    color:black;
+}
+
+.text-primary {
+    color: #FCD804 !important;
+}
+
+.color-lalucha
+{
+    background-color: #FCD804 !important;
+    color: black !important;
+}
+
+.nav-link  .active
+{
+    background-color: #FCD804 !important;
+    color:black !important;
 }

@@ -39,14 +39,14 @@
         <div class="row gx-0">
             <div class="col-lg-3 bg-dark d-none d-lg-block">
                 <a href="index.html" class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
-                    <h1 class="m-0  fit-font">Fit.Done.Well</h1>
+                    <h1 class="m-0  fit-font">Fit.Done.Well.</h1>
                 </a>
             </div>
             <div class="col-lg-9">
 
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark p-3 p-lg-0 px-lg-5">
                     <a href="index.html" class="navbar-brand d-block d-lg-none">
-                        <h1 class="m-0   fit-font">Fit.Done.Well <img src="/img/logo.png"  class="img-fluid" alt=""></h1>
+                        <h1 class="m-0   fit-font">Fit.Done.Well. <img src="/img/logo.png"  class="img-fluid" alt=""></h1>
                         
                     </a>
                     <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -87,7 +87,7 @@
                     <img class="w-100" src="img/fit1.png" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase">Fit.Done.Well</h5>
+                            <h5 class="text-white text-uppercase">Fit.Done.Well.</h5>
                             <h1 class="display-2 text-white text-uppercase mb-md-4">Fitness - MindFullNess - Wholeness</h1>
                             <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Join Us</a>
                             <a href="" class="btn btn-light py-md-3 px-md-5">Contact Us</a>
@@ -184,17 +184,17 @@
             <div class="col-lg-7">
                 <div class="mb-4">
                     <h5 class="text-primary text-uppercase">About </h5>
-                    <h1 class="display-3 text-uppercase mb-0">Fit.Done.Well</h1>
+                    <h1 class="display-3 text-uppercase mb-0">Fit.Done.Well.</h1>
                 </div>
                 <h4 class="text-body mb-4">Empowering Minds, Bodies, and Spirits for a Better World</h4>
                 <p class="mb-4">At Fit Done Well, we believe in the power of working on all aspects of your well-being—mind, body, and spirit. Our mission is to create a world where strength, kindness, and open minds lead the way. We offer personalized programs, interactive experiences, and a community that supports you every step of the way. Whether it's through physical workouts, nutritional plans, or mindful practices, we are here to help you achieve a healthier, stronger, and more fulfilling life. Join us in our journey to better priorities and a brighter future!</p>
                 <div class="rounded bg-dark p-5">
                     <ul class="nav nav-pills justify-content-between mb-3">
                         <li class="nav-item w-50">
-                            <a class="nav-link text-uppercase text-center w-100 active" data-bs-toggle="pill" href="#pills-1">About Us</a>
+                            <a class="nav-link text-uppercase text-center w-100  active " data-bs-toggle="pill" href="#pills-1">About Us</a>
                         </li>
                         <li class="nav-item w-50">
-                                <a class="nav-link text-uppercase text-center w-100" data-bs-toggle="pill" href="#pills-2">Why Choose Us</a>
+                                <a class="nav-link text-uppercase text-center w-100 " data-bs-toggle="pill" href="#pills-2">Why Choose Us</a>
                         </li>
                     </ul>
                     <div class="tab-content">
