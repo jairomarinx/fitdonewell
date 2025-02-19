@@ -252,3 +252,50 @@ h6,
     background-color: #FCD804 !important;
     color:black !important;
 }
+
+.cuadro-laly
+{
+    padding: 20px;    
+    background-color: rgba(0,0,0,0.5) !important;
+    color:black !important;
+    border-radius: 15px;
+}
+
+.text-justify {
+    text-align: justify;
+  }
+
+.horario
+{
+    background-color: #171819 !important;
+    color: white ;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.border-black
+{
+    border: 1px solid black;
+    
+}
+
+.horario-header
+{
+    background-color: #e0b046 !important;
+    color: black;
+    padding: 10px;
+    
+}
+
+.horario-body
+{
+    background-color: #171819 !important;
+    color: white;
+    border-style: solid;
+    border-color: #e0b046;
+    padding: 10px;
+    
+}

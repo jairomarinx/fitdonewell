@@ -53,6 +53,20 @@
             '<i class="bi bi-arrow-right"></i>'
         ],
     });
+
+    $("#why_choose_us").click(function(){
+        $("#img_laly_fuerte").addClass("d-none");
+        $("#img_brad_fuerte").removeClass("d-none");
+
+    });
+
+    $("#about_us").click(function(){
+        $("#img_brad_fuerte").addClass("d-none");
+        $("#img_laly_fuerte").removeClass("d-none");
+    });
+
     
 })(jQuery);
+
+
 

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Fit.Done.Well</title>
+    <title>Fit.Done.Well.</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -30,7 +30,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style.css?ver=<?php rand(1,10000); ?>" rel="stylesheet">
 </head>
 
 <body>
@@ -84,46 +84,54 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="img/fit1.png" alt="Image">
+                    <img class="w-100" src="img/foto-laly1.jpeg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase">Fit.Done.Well.</h5>
-                            <h1 class="display-2 text-white text-uppercase mb-md-4">Fitness - MindFullNess - Wholeness</h1>
-                            <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Join Us</a>
-                            <a href="" class="btn btn-light py-md-3 px-md-5">Contact Us</a>
+                            <div class="cuadro-laly">
+                                <h5 class="text-white text-uppercase">Fit.Done.Well.</h5>
+                                <h1 class="display-2 text-white mb-md-4 fs-1">Fitness - MindFullNess - Wholeness</h1>
+                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Join Us</a>
+                                <a href="" class="btn btn-light py-md-3 px-md-5">Contact Us</a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="img/fit2.png" alt="Image">
+                    <img class="w-100" src="img/foto-laly2.jpeg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase">Strong Bodies</h5>
-                            <h1 class="display-2 text-white text-uppercase mb-md-4">Fitness - Fit4Ever Program</h1>
-                            <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Join Us</a>
-                            <a href="" class="btn btn-light py-md-3 px-md-5">Contact Us</a>
+                            <div class="cuadro-laly">
+                                <h5 class="text-white text-uppercase">Fitness</h5>
+                                <h1 class="display-2 text-white text-uppercase mb-md-4 fs-1">Fit.Reset.Program.</h1>
+                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Join Us</a>
+                                <a href="" class="btn btn-light py-md-3 px-md-5">Contact Us</a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="img/mindfullness.png" alt="Image">
+                    <img class="w-100" src="img/laly3r.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase">Strong Bodies</h5>
-                            <h1 class="display-2 text-white text-uppercase mb-md-4">Fitness - Fit4Ever Program</h1>
-                            <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Join Us</a>
-                            <a href="" class="btn btn-light py-md-3 px-md-5">Contact Us</a>
+                            <div class="cuadro-laly">
+                                <h5 class="text-white text-uppercase">MindFulness</h5>
+                                <h1 class="display-2 text-white text-uppercase mb-md-4 fs-1">Mind.Reset.Program.</h1>
+                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Join Us</a>
+                                <a href="" class="btn btn-light py-md-3 px-md-5">Contact Us</a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="img/fit-done-well.png" alt="Image">
+                    <img class="w-100" src="img/laly-real.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase"></h5>
-                            <h1 class="display-2 text-white text-uppercase mb-md-4"><br><br><br></h1>
-                            <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Join Us</a>
-                            <a href="" class="btn btn-light py-md-3 px-md-5">Contact Us</a>
+                            <div class="cuadro-laly">
+                                <h5 class="text-white text-uppercase">Wholeness</h5>
+                                <h1 class="display-2 text-white text-uppercase mb-md-4 fs-1">Life.Reset.Program.</h1>
+                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Join Us</a>
+                                <a href="" class="btn btn-light py-md-3 px-md-5">Contact Us</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -178,7 +186,8 @@
         <div class="row gx-5">
             <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded" src="img/laly-about.png" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100 rounded img-fluid" id="img_laly_fuerte" src="img/laly-fuerte2.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100 rounded img-fluid  d-none" id="img_brad_fuerte" src="img/brad-fuerte2.jpg" style="object-fit: cover;">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -186,23 +195,23 @@
                     <h5 class="text-primary text-uppercase">About </h5>
                     <h1 class="display-3 text-uppercase mb-0">Fit.Done.Well.</h1>
                 </div>
-                <h4 class="text-body mb-4">Empowering Minds, Bodies, and Spirits for a Better World</h4>
-                <p class="mb-4">At Fit Done Well, we believe in the power of working on all aspects of your well-being—mind, body, and spirit. Our mission is to create a world where strength, kindness, and open minds lead the way. We offer personalized programs, interactive experiences, and a community that supports you every step of the way. Whether it's through physical workouts, nutritional plans, or mindful practices, we are here to help you achieve a healthier, stronger, and more fulfilling life. Join us in our journey to better priorities and a brighter future!</p>
+                <h4 class="text-body mb-4">ᴇᴍᴘᴏᴡᴇʀɪɴɢ ʙᴏᴅʏ, ᴍɪɴᴅ & sᴘɪʀɪᴛ as connected treasures, with the mission to Coach those who are ready for a <strong>Life Reset</strong></h4>
+                <p class="mb-4 text-justify">At Fit Done Well, we believe in the power of working on all aspects of your well-being—mind, body, and spirit. Our mission is to create a world where strength, kindness, and open minds lead the way. We offer personalized programs, interactive experiences, and a community that supports you every step of the way. Whether it's through physical workouts, nutritional plans, or mindful practices, we are here to help you achieve a healthier, stronger, and more fulfilling life. Join us in our journey to better priorities and a brighter future!</p>
                 <div class="rounded bg-dark p-5">
                     <ul class="nav nav-pills justify-content-between mb-3">
                         <li class="nav-item w-50">
-                            <a class="nav-link text-uppercase text-center w-100  active " data-bs-toggle="pill" href="#pills-1">About Us</a>
+                            <a class="nav-link text-uppercase text-center w-100  active " id="about_us" data-bs-toggle="pill" onclick="about_us()" href="#pills-1" >About Us</a>
                         </li>
                         <li class="nav-item w-50">
-                                <a class="nav-link text-uppercase text-center w-100 " data-bs-toggle="pill" href="#pills-2">Why Choose Us</a>
+                                <a class="nav-link text-uppercase text-center w-100 " id="why_choose_us" data-bs-toggle="pill" href="#pills-2" onclick="why_choose_us()">Why Choose Us</a>
                         </li>
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane fade show active" id="pills-1">
-                            <p class="text-secondary mb-0">As a company, we focus on the three fundamental pillars of being: body, heart, and spirit. We understand that true wellness comes when these elements are in balance. Our fitness programs not only challenge your body but also nurture your heart with kindness and compassion. We help you cultivate a strong mind by fostering mental clarity and resilience. Together, these pillars create a harmonious life where strength, well-being, and peace thrive.</p>
+                            <p class="text-secondary mb-0 text-justify">As a company, we focus on the three fundamental pillars of being: body, mind, and spirit. We understand that true wellness comes when these elements are in balance. Our fitness programs not only challenge your body but also nurture your heart with kindness and compassion. We help you cultivate a strong mind by fostering mental clarity and resilience. Together, these pillars create a harmonious life where strength, well-being, and peace thrive.</p>
                         </div>
                         <div class="tab-pane fade" id="pills-2">
-                            <p class="text-secondary mb-0">At Fit Done Well, we offer more than just fitness—we provide a holistic approach to wellness. Our unique programs are designed to nurture your body, heart, and spirit, creating a balance that supports long-term health and happiness. With personalized coaching, interactive experiences, and a supportive community, we guide you every step of the way. Whether you're looking to improve your physical fitness, boost your mental clarity, or find a deeper connection to yourself, we're here to help you unlock your full potential and live a life of strength, kindness, and open-mindedness. Choose us because your well-being deserves to be treated as a whole.</p>
+                            <p class="text-secondary mb-0 text-justify">At Fit Done Well, we offer more than just fitness—we provide a holistic approach to wellness. Our unique programs are designed to nurture your body, heart, and spirit, creating a balance that supports long-term health and happiness. With personalized coaching, interactive experiences, and a supportive community, we guide you every step of the way. Whether you're looking to improve your physical fitness, boost your mental clarity, or find a deeper connection to yourself, we're here to help you unlock your full potential and live a life of strength, kindness, and open-mindedness. Choose us because your well-being deserves to be treated as a whole.</p>
                         </div>
                     </div>
                 </div>
@@ -217,9 +226,9 @@
         <div class="row g-5 gb-5">
             <div class="col-lg-4 col-md-6">
                 <div class="bg-light rounded text-center p-5">
-                    <img src="img/body.png" alt="body" class="img-fluid">
-                    <h3 class="text-uppercase my-4">Body</h3>
-                    <p><strong>  Celebrate Your Body with Strength and Vitality</strong><br><br>
+                    <img src="img/laly-body.jpg" alt="body" class="img-fluid">
+                    <h3 class="text-uppercase my-4 fs-1">Body</h3>
+                    <p class="text-justify"><strong>  Celebrate Your Body with Strength and Vitality</strong><br><br>
 
 At Fit Done Well, we believe your body is a powerful tool that deserves celebration. Our body-focused programs are designed to help you build strength, increase endurance, and achieve your fitness goals in a way that honors your unique capabilities. Whether you're engaging in full-body workouts, leg sessions, or core-focused exercises, every movement is a step toward a healthier, stronger you. With personalized routines, live sessions, and expert guidance, we empower you to embrace your body's potential and unlock its true power. Celebrate your health with every workout and transform your body into a source of confidence and vitality.</p>
                     <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
@@ -227,9 +236,9 @@ At Fit Done Well, we believe your body is a powerful tool that deserves celebrat
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bg-light rounded text-center p-5">
-                    <img src="img/mind.jpg" class="img-fluid">
-                    <h3 class="text-uppercase my-4">Mind</h3>
-                    <p><strong>  Nurture Your Mind for Clarity and Growth</strong><br><br>
+                    <img src="img/brad-mind.jpg" class="img-fluid">
+                    <h3 class="text-uppercase my-4 fs-1">Mind</h3>
+                    <p class="text-justify"><strong>  Nurture Your Mind for Clarity and Growth</strong><br><br>
 
 At Fit Done Well, we understand that a strong mind is the foundation of true wellness. Our programs focus on mental clarity, resilience, and mindfulness to help you navigate life's challenges with confidence. By integrating mental exercises, journaling, and mindful habits into your routine, we empower you to stay focused, positive, and centered. Embrace the power of your mind to unlock endless possibilities for personal growth, and discover how mental strength can elevate your overall well-being. With us, your mind becomes a source of strength, peace, and limitless potential.<br><br></p>
                     <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
@@ -237,11 +246,11 @@ At Fit Done Well, we understand that a strong mind is the foundation of true wel
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bg-light rounded text-center p-5">
-                    <img src="img/wholeness.jpg" class="img-fluid" alt="">
-                    <h3 class="text-uppercase my-4">Spirit</h3>
-                    <p>Elevate Your Spirit with Peace and Purpose<br><br>
+                    <img src="img/lalucha-sol.jpg" class="img-fluid" alt="">
+                    <h3 class="text-uppercase my-4 fs-1">Spirit</h3>
+                    <p class="text-justify">Elevate Your Spirit with Peace and Purpose<br><br>
 
-At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling life. Our programs focus on fostering inner peace, mindfulness, and a deeper connection to yourself. Through mindful activities, meditation, and holistic practices, we guide you on a journey to rediscover balance and purpose. By embracing your spirit, you open the door to greater emotional resilience, compassion, and a sense of fulfillment. Let your spirit soar, and experience the transformative power of a connected and grounded <br><br><br> </p>
+At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling life. Our programs focus on fostering inner peace, mindfulness, and a deeper connection to yourself. Through mindful activities, meditation, and holistic practices, we guide you on a journey to rediscover balance and purpose. By embracing your spirit, you open the door to greater emotional resilience, compassion, and a sense of fulfillment. Let your spirit soar, and experience the transformative power of a connected and grounded self<br><br><br> </p>
                     <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
@@ -253,457 +262,194 @@ At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling l
     <!-- Programe Start -->
 
 
+    
+
     <!-- Class Timetable Start -->
-    <div class="container-fluid p-5">
+    <div class="container-fluid px-0">
         <div class="mb-5 text-center">
-            <h5 class="text-primary text-uppercase">Class Schedule</h5>
-            <h1 class="display-3 text-uppercase mb-0">Working Hours</h1>
+            <h5 class="text-primary text-uppercase">Our Schedule</h5>
+            <h1 class="display-3 text-uppercase mb-0">Life-Building Hours</h1>
         </div>
-        <div class="tab-class text-center">
-            <ul class="nav nav-pills d-inline-flex justify-content-center bg-dark text-uppercase rounded-pill mb-5">
-                <li class="nav-item">
-                    <a class="nav-link rounded-pill text-white active" data-bs-toggle="pill" href="#tab-1">Monday</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link rounded-pill text-white" data-bs-toggle="pill" href="#tab-2">Tuesday</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link rounded-pill text-white" data-bs-toggle="pill" href="#tab-3">Wednesday</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link rounded-pill text-white" data-bs-toggle="pill" href="#tab-4">Thursday</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link rounded-pill text-white" data-bs-toggle="pill" href="#tab-5">Friday</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link rounded-pill text-white" data-bs-toggle="pill" href="#tab-6">Saturday</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link rounded-pill text-white" data-bs-toggle="pill" href="#tab-7">Sunday</a>
-                </li>
-            </ul>
-            <div class="tab-content">
-                <div id="tab-1" class="tab-pane fade show p-0 active">
-                    <div class="row g-5">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00am - 8.00am</h6>
-                                <h5 class="text-uppercase text-primary">Power Lifting</h5>
-                                <p class="text-uppercase text-secondary mb-0">Brad Peterson</p>
-                            </div>
+        <div class="horario">
+            <div class="container mt-4">
+                <div class="row">
+
+                    <div class="col-md-2">
+                        <div class="horario-header">
+                            <h5 class="text-center">Monday</h5>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00am - 10.00am</h6>
-                                <h5 class="text-uppercase text-primary">Body Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Laly Peña</p>
-                            </div>
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">10.00am - 12.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Cardio Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jack Sparrow</p>
-                            </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
+                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">12.00pm - 2.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Weight Loose</h5>
-                                <p class="text-uppercase text-secondary mb-0">Robert Smith</p>
-                            </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">2.00pm - 4.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Fitness Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Adam Phillips</p>
-                            </div>
+                    </div>    
+                    
+                    <div class="col-md-2">
+                        <div class="horario-header">
+                            <h5 class="text-center">Tuesday</h5>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">4.00pm - 6.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Crossfit Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">James Alien</p>
-                            </div>
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>                            
+                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00pm - 8.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Muscle Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Petter John</p>
-                            </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">                            
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00pm - 10.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Yoga Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jessy Reo</p>
-                            </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
                         </div>
-                    </div>
+                    </div>                     
+
+                    <div class="col-md-2">
+                        <div class="horario-header">
+                            <h5 class="text-center">Wednesday </h5>
+                        </div>
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
+                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>   
+                    
+                    <div class="col-md-2">
+                        <div class="horario-header">
+                            <h5 class="text-center">Thursday  </h5>
+                        </div>
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
+                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>    
+                    
+
+                    <div class="col-md-2">
+                        <div class="horario-header">
+                            <h5 class="text-center">Friday  </h5>
+                        </div>
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
+                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>                     
+
+                    <div class="col-md-2">
+                        <div class="horario-header">
+                            <h5 class="text-center">Saturday   </h5>
+                        </div>
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
+                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
+                        </div>
+
+                        <div class="horario-body text-center">
+                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
+                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
+                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
+                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>                      
+                    
+
                 </div>
-                <div id="tab-2" class="tab-pane fade p-0">
-                    <div class="row g-5">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00am - 8.00am</h6>
-                                <h5 class="text-uppercase text-primary">Power Lifting</h5>
-                                <p class="text-uppercase text-secondary mb-0">Brad Peterson</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00am - 10.00am</h6>
-                                <h5 class="text-uppercase text-primary">Body Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Laly Peña</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">10.00am - 12.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Cardio Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jack Sparrow</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">12.00pm - 2.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Weight Loose</h5>
-                                <p class="text-uppercase text-secondary mb-0">Robert Smith</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">2.00pm - 4.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Fitness Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Adam Phillips</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">4.00pm - 6.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Crossfit Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">James Alien</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00pm - 8.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Muscle Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Petter John</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00pm - 10.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Yoga Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jessy Reo</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="tab-3" class="tab-pane fade p-0">
-                    <div class="row g-5">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00am - 8.00am</h6>
-                                <h5 class="text-uppercase text-primary">Power Lifting</h5>
-                                <p class="text-uppercase text-secondary mb-0">Brad Peterson</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00am - 10.00am</h6>
-                                <h5 class="text-uppercase text-primary">Body Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Laly Peña</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">10.00am - 12.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Cardio Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jack Sparrow</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">12.00pm - 2.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Weight Loose</h5>
-                                <p class="text-uppercase text-secondary mb-0">Robert Smith</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">2.00pm - 4.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Fitness Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Adam Phillips</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">4.00pm - 6.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Crossfit Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">James Alien</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00pm - 8.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Muscle Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Petter John</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00pm - 10.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Yoga Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jessy Reo</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="tab-4" class="tab-pane fade p-0">
-                    <div class="row g-5">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00am - 8.00am</h6>
-                                <h5 class="text-uppercase text-primary">Power Lifting</h5>
-                                <p class="text-uppercase text-secondary mb-0">Brad Peterson</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00am - 10.00am</h6>
-                                <h5 class="text-uppercase text-primary">Body Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Laly Peña</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">10.00am - 12.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Cardio Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jack Sparrow</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">12.00pm - 2.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Weight Loose</h5>
-                                <p class="text-uppercase text-secondary mb-0">Robert Smith</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">2.00pm - 4.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Fitness Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Adam Phillips</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">4.00pm - 6.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Crossfit Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">James Alien</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00pm - 8.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Muscle Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Petter John</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00pm - 10.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Yoga Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jessy Reo</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="tab-5" class="tab-pane fade p-0">
-                    <div class="row g-5">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00am - 8.00am</h6>
-                                <h5 class="text-uppercase text-primary">Power Lifting</h5>
-                                <p class="text-uppercase text-secondary mb-0">Brad Peterson</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00am - 10.00am</h6>
-                                <h5 class="text-uppercase text-primary">Body Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Laly Peña</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">10.00am - 12.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Cardio Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jack Sparrow</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">12.00pm - 2.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Weight Loose</h5>
-                                <p class="text-uppercase text-secondary mb-0">Robert Smith</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">2.00pm - 4.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Fitness Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Adam Phillips</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">4.00pm - 6.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Crossfit Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">James Alien</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00pm - 8.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Muscle Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Petter John</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00pm - 10.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Yoga Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jessy Reo</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="tab-6" class="tab-pane fade p-0">
-                    <div class="row g-5">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00am - 8.00am</h6>
-                                <h5 class="text-uppercase text-primary">Power Lifting</h5>
-                                <p class="text-uppercase text-secondary mb-0">Brad Peterson</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00am - 10.00am</h6>
-                                <h5 class="text-uppercase text-primary">Body Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Laly Peña</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">10.00am - 12.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Cardio Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jack Sparrow</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">12.00pm - 2.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Weight Loose</h5>
-                                <p class="text-uppercase text-secondary mb-0">Robert Smith</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">2.00pm - 4.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Fitness Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Adam Phillips</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">4.00pm - 6.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Crossfit Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">James Alien</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00pm - 8.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Muscle Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Petter John</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00pm - 10.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Yoga Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jessy Reo</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="tab-7" class="tab-pane fade p-0">
-                    <div class="row g-5">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00am - 8.00am</h6>
-                                <h5 class="text-uppercase text-primary">Power Lifting</h5>
-                                <p class="text-uppercase text-secondary mb-0">Brad Peterson</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00am - 10.00am</h6>
-                                <h5 class="text-uppercase text-primary">Body Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Laly Peña</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">10.00am - 12.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Cardio Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jack Sparrow</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">12.00pm - 2.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Weight Loose</h5>
-                                <p class="text-uppercase text-secondary mb-0">Robert Smith</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">2.00pm - 4.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Fitness Program</h5>
-                                <p class="text-uppercase text-secondary mb-0">Adam Phillips</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">4.00pm - 6.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Crossfit Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">James Alien</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">6.00pm - 8.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Muscle Building</h5>
-                                <p class="text-uppercase text-secondary mb-0">Petter John</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="bg-dark rounded text-center py-5 px-3">
-                                <h6 class="text-uppercase text-light mb-3">8.00pm - 10.00pm</h6>
-                                <h5 class="text-uppercase text-primary">Yoga Class</h5>
-                                <p class="text-uppercase text-secondary mb-0">Jessy Reo</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
+
+                
+                
+                  
+
+
+
+
+        
+                
+
+                
+
+
+
+
             </div>
         </div>
     </div>
@@ -772,7 +518,7 @@ At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling l
             <div class="col-lg-4 col-md-6">
                 <div class="team-item position-relative">
                     <div class="position-relative overflow-hidden rounded">
-                        <img class="img-fluid w-100" src="img/brad-team1.png" alt="">
+                        <img class="img-fluid w-100" src="img/brad-team1.jpg" alt="">
                         <div class="team-overlay">
                             <div class="d-flex align-items-center justify-content-start">
                                 <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i class="fab fa-twitter"></i></a>
@@ -790,7 +536,7 @@ At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling l
             <div class="col-lg-4 col-md-6">
                 <div class="team-item position-relative">
                     <div class="position-relative overflow-hidden rounded">
-                        <img class="img-fluid w-100" src="img/laly-bikini.png" alt="">
+                        <img class="img-fluid w-100" src="img/laly-team1.jpg" alt="">
                         <div class="team-overlay">
                             <div class="d-flex align-items-center justify-content-start">
                                 <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i class="fab fa-twitter"></i></a>
@@ -805,10 +551,10 @@ At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling l
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 d-none">
+            <div class="col-lg-4 col-md-6">
                 <div class="team-item position-relative">
                     <div class="position-relative overflow-hidden rounded">
-                        <img class="img-fluid w-100" src="img/team-3.jpg" alt="">
+                        <img class="img-fluid w-100" src="img/team-laly-brad.jpg" alt="">
                         <div class="team-overlay">
                             <div class="d-flex align-items-center justify-content-start">
                                 <a class="btn btn-light btn-square rounded-circle mx-1" href="#"><i class="fab fa-twitter"></i></a>
@@ -818,11 +564,12 @@ At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling l
                         </div>
                     </div>
                     <div class="position-absolute start-0 bottom-0 w-100 rounded-bottom text-center p-4" style="background: rgba(34, 36, 41, .9);">
-                        <h5 class="text-uppercase text-light">Adam Phillips</h5>
-                        <p class="text-uppercase text-secondary m-0">Trainer</p>
+                        <h5 class="text-uppercase text-light">Laly - Brad</h5>
+                        <p class="text-uppercase text-secondary m-0">Team Fit.Well.Done.</p>
                     </div>
                 </div>
-            </div>
+            </div>            
+
         </div>
     </div>
     <!-- Team End -->
@@ -831,37 +578,108 @@ At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling l
     <!-- Testimonial Start -->
     <div class="container-fluid p-0 my-5">
         <div class="row g-0">
-            <div class="col-lg-6" style="min-height: 500px;">
+            <div class="col-lg-6 d-none" style="min-height: 500px;">
                 <div class="position-relative h-100">
                     <img class="position-absolute w-100 h-100" src="img/testimonial.jpg" style="object-fit: cover;">
                 </div>
             </div>
-            <div class="col-lg-6 bg-dark p-5">
+            <div class="col-lg-12 bg-dark p-5">
                 <div class="mb-5">
                     <h5 class="text-primary text-uppercase">Testimonial</h5>
                     <h1 class="display-3 text-uppercase text-light mb-0">Our Client Say</h1>
                 </div>
                 <div class="owl-carousel testimonial-carousel">
                     <div class="testimonial-item">
-                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat dolor rebum sit ipsum.</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
-                            <div class="ps-4">
-                                <h5 class="text-uppercase text-light">Client Name</h5>
-                                <span class="text-uppercase text-secondary">Profession</span>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>I used to feel exhausted all the time, both physically and mentally. Fit Done Well changed everything! Now, I wake up energized, my body feels stronger, and my mind is clear. I’m finally living the life I always dreamed of.</p>
+                                <div class="d-flex align-items-center">
+                                    <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
+                                    <div class="ps-4">
+                                        <h5 class="text-uppercase text-light">Client Name</h5>
+                                        <span class="text-uppercase text-secondary">Profession</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <img src="img/testimonial1.jpg" class="img-fluid" alt="" style="min-width: 416px; min-height: 500px;">
                             </div>
                         </div>
+
                     </div>
+
                     <div class="testimonial-item">
-                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat dolor rebum sit ipsum.</p>
-                        <div class="d-flex align-items-center">
-                            <img class="img-fluid rounded-circle" src="img/testimonial-2.jpg" alt="">
-                            <div class="ps-4">
-                                <h5 class="text-uppercase text-light">Client Name</h5>
-                                <span class="text-uppercase text-secondary">Profession</span>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> joined Fit Done Well for fitness, but I gained so much more. It’s not just about working out—it’s about becoming the best version of myself. My mindset has shifted, my confidence has skyrocketed, and I feel unstoppable!</p>
+                                <div class="d-flex align-items-center">
+                                    <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
+                                    <div class="ps-4">
+                                        <h5 class="text-uppercase text-light">Client Name</h5>
+                                        <span class="text-uppercase text-secondary">Profession</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <img src="img/testimonial6.jpg" class="img-fluid" alt="" style="min-width: 416px; min-height: 500px;">
                             </div>
                         </div>
                     </div>
+
+                    <div class="testimonial-item">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>For years, I struggled with stress and anxiety. The workouts, the mindfulness practices, and the supportive community have helped me find peace and strength. I’ve never felt more balanced in my life.</p>
+                                <div class="d-flex align-items-center">
+                                    <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
+                                    <div class="ps-4">
+                                        <h5 class="text-uppercase text-light">Client Name</h5>
+                                        <span class="text-uppercase text-secondary">Profession</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <img src="img/testimonial3.jpg" class="img-fluid" alt="" style="min-width: 416px; min-height: 500px;">
+                            </div>
+                        </div>
+                    </div>                    
+
+                    
+                    <div class="testimonial-item">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>At 45, I thought it was too late to get in shape. But with Fit Done Well, I discovered that change is possible at any age. I’ve lost weight, built muscle, and most importantly, I’ve gained a whole new mindset.</p>
+                                <div class="d-flex align-items-center">
+                                    <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
+                                    <div class="ps-4">
+                                        <h5 class="text-uppercase text-light">Client Name</h5>
+                                        <span class="text-uppercase text-secondary">Profession</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <img src="img/testimonial4.jpg" class="img-fluid" alt="" style="min-width: 416px; min-height: 500px;">
+                            </div>
+                        </div>
+                    </div>      
+                    
+                    <div class="testimonial-item">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat dolor rebum sit ipsum.</p>
+                                <div class="d-flex align-items-center">
+                                    <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
+                                    <div class="ps-4">
+                                        <h5 class="text-uppercase text-light">Client Name</h5>
+                                        <span class="text-uppercase text-secondary">Profession</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <img src="img/testimonial5.jpg" class="img-fluid" alt="" style="min-width: 416px; min-height: 500px;">
+                            </div>
+                        </div>
+                    </div>                    
                 </div>
             </div>
         </div>
@@ -1021,7 +839,7 @@ At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling l
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
 
     <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+    <script src="js/main.js?ver=<?php echo rand(1,10000); ?>"></script>
 </body>
 
 </html>
