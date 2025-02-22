@@ -153,12 +153,16 @@
                     <div class="col-lg-7 px-5 text-start">
                         <div class="h-100 d-inline-flex align-items-center py-2 me-4">
                             <i class="fa fa-envelope text-primary me-2"></i>
-                            <h6 class="mb-0">lalytawellness@gmail.com</h6>
+                            <h6 class="mb-0">fitdonewell@gmail.com</h6>
+                        </div>
+                        <div class="h-100 px-5 d-inline-flex align-items-center py-2">
+                            <i class="fa fa-phone-alt text-primary me-2"></i>
+                            <h6 class="mb-0">+1 (954) 226-4294  </h6>
                         </div>
                         <div class="h-100 d-inline-flex align-items-center py-2">
                             <i class="fa fa-phone-alt text-primary me-2"></i>
-                            <h6 class="mb-0">+1 (954) 226-4294</h6>
-                        </div>
+                            <h6 class="mb-0">+1 (602)-527-1055  </h6>
+                        </div>                        
                     </div>
                     <div class="col-lg-5 px-5 text-end">
                         <div class="d-inline-flex align-items-center py-2">
@@ -582,112 +586,42 @@
     <!-- Testimonial Start -->
     <div class="container-fluid p-0 my-5">
         <div class="row g-0">
-            <div class="col-lg-6 d-none" style="min-height: 500px;">
+            <div class="col-lg-6" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100" src="img/testimonial.jpg" style="object-fit: cover;">
+                    <img class="img-fluid" src="img/korey-laly.jpg" style="object-fit: cover;">
                 </div>
             </div>
-            <div class="col-lg-12 bg-dark p-5">
-                <div class="mb-5">
-                    <h5 class="text-primary text-uppercase">Testimonial</h5>
-                    <h1 class="display-3 text-uppercase text-light mb-0">Our Client Say</h1>
+            <div class="col-lg-6 bg-dark p-5">
+                <div class="mb-1">
+                    <h1 class="display-3 text-uppercase text-primary mb-0">Testimonials</h1>
                 </div>
                 <div class="owl-carousel testimonial-carousel">
                     <div class="testimonial-item">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>I used to feel exhausted all the time, both physically and mentally. Fit.done.well. changed everything! Now, I wake up energized, my body feels stronger, and my mind is clear. I’m finally living the life I always dreamed of.</p>
-                                <div class="d-flex align-items-center">
-                                    <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
-                                    <div class="ps-4">
-                                        <h5 class="text-uppercase text-light">Client Name</h5>
-                                        <span class="text-uppercase text-secondary">Profession</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <img src="img/testimonial1.jpg" class="img-fluid" alt="" style="min-width: 416px; min-height: 500px;">
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="testimonial-item">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> joined Fit.done.well. for fitness, but I gained so much more. It’s not just about working out—it’s about becoming the best version of myself. My mindset has shifted, my confidence has skyrocketed, and I feel unstoppable!</p>
-                                <div class="d-flex align-items-center">
-                                    <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
-                                    <div class="ps-4">
-                                        <h5 class="text-uppercase text-light">Client Name</h5>
-                                        <span class="text-uppercase text-secondary">Profession</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <img src="img/testimonial6.jpg" class="img-fluid" alt="" style="min-width: 416px; min-height: 500px;">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat dolor rebum sit ipsum.</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/testimonial1.jpg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">Client Name</h5>
+                                <span class="text-uppercase text-secondary">Profession</span>
                             </div>
                         </div>
                     </div>
-
                     <div class="testimonial-item">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>For years, I struggled with stress and anxiety. The workouts, the mindfulness practices, and the supportive community have helped me find peace and strength. I’ve never felt more balanced in my life.</p>
-                                <div class="d-flex align-items-center">
-                                    <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
-                                    <div class="ps-4">
-                                        <h5 class="text-uppercase text-light">Client Name</h5>
-                                        <span class="text-uppercase text-secondary">Profession</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <img src="img/testimonial3.jpg" class="img-fluid" alt="" style="min-width: 416px; min-height: 500px;">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat dolor rebum sit ipsum.</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/testimonial2.jpg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">Client Name</h5>
+                                <span class="text-uppercase text-secondary">Profession</span>
                             </div>
                         </div>
-                    </div>                    
-
-                    
-                    <div class="testimonial-item">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>At 45, I thought it was too late to get in shape. But with Fit.done.well., I discovered that change is possible at any age. I’ve lost weight, built muscle, and most importantly, I’ve gained a whole new mindset.</p>
-                                <div class="d-flex align-items-center">
-                                    <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
-                                    <div class="ps-4">
-                                        <h5 class="text-uppercase text-light">Client Name</h5>
-                                        <span class="text-uppercase text-secondary">Profession</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <img src="img/testimonial4.jpg" class="img-fluid" alt="" style="min-width: 416px; min-height: 500px;">
-                            </div>
-                        </div>
-                    </div>      
-                    
-                    <div class="testimonial-item">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat dolor rebum sit ipsum.</p>
-                                <div class="d-flex align-items-center">
-                                    <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
-                                    <div class="ps-4">
-                                        <h5 class="text-uppercase text-light">Client Name</h5>
-                                        <span class="text-uppercase text-secondary">Profession</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <img src="img/testimonial5.jpg" class="img-fluid" alt="" style="min-width: 416px; min-height: 500px;">
-                            </div>
-                        </div>
-                    </div>                    
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+
+    
     <!-- Testimonial End -->
 
 
@@ -1063,12 +997,16 @@
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-envelope-open text-primary me-2"></i>
-                            <p class="mb-0">info@example.com</p>
+                            <p class="mb-0">fitdonewell@gmail.com</p>
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-telephone text-primary me-2"></i>
-                            <p class="mb-0">+012 345 67890</p>
+                            <p class="mb-0">+1 954-226-4294</p>
                         </div>
+                        <div class="d-flex mb-2">
+                            <i class="bi bi-telephone text-primary me-2"></i>
+                            <p class="mb-0">+1 602-527-1055</p>
+                        </div>                        
                         <div class="d-flex mt-4">
                             <a class="btn btn-primary btn-square rounded-circle me-2" href="#"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-primary btn-square rounded-circle me-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -1087,17 +1025,7 @@
                             <a class="text-secondary" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
-                        <h4 class="text-uppercase text-light mb-4">Popular Links</h4>
-                        <div class="d-flex flex-column justify-content-start">
-                            <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
-                            <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
-                            <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Class Schedule</a>
-                            <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Our Trainers</a>
-                            <a class="text-secondary mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Latest Blog</a>
-                            <a class="text-secondary" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
-                        </div>
-                    </div>
+
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
@@ -1119,7 +1047,7 @@
         <div class="row gx-5">
             <div class="col-lg-8">
                 <div class="py-lg-4 text-center">
-                    <p class="text-secondary mb-0">&copy; <a class="text-light fw-bold" href="#">Your Site Name</a>. All Rights Reserved.</p>
+                    <p class="text-secondary mb-0">&copy; <a class="text-light fw-bold" href="#">Fit.done.well.</a>. All Rights Reserved.</p>
                 </div>
             </div>
             <div class="col-lg-4">
