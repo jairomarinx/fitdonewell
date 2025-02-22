@@ -162,21 +162,22 @@
                     </div>
                     <div class="col-lg-5 px-5 text-end">
                         <div class="d-inline-flex align-items-center py-2">
-                            <a class="btn btn-light btn-square rounded-circle me-2" href="">
+                            <a class="btn btn-light btn-square rounded-circle me-2" href="https://web.facebook.com/laly.pena.54">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
-                            <a class="btn btn-light btn-square rounded-circle me-2" href="">
-                                <i class="fab fa-twitter"></i>
+                            <a class="btn btn-light btn-square rounded-circle me-2" href="https://www.tiktok.com/@fit.done.well">
+                                <i class="fab fa-tiktok"></i>
                             </a>
-                            <a class="btn btn-light btn-square rounded-circle me-2" href="">
-                                <i class="fab fa-linkedin-in"></i>
-                            </a>
-                            <a class="btn btn-light btn-square rounded-circle me-2" href="">
+
+                            <a class="btn btn-light btn-square rounded-circle me-2" href="https://www.instagram.com/fit.done.well/?locale=pt_BR&hl=am-et">
                                 <i class="fab fa-instagram"></i>
                             </a>
-                            <a class="btn btn-light btn-square rounded-circle" href="">
+                            <a class="btn btn-light btn-square rounded-circle" href="https://www.youtube.com/lalytawellness">
                                 <i class="fab fa-youtube"></i>
                             </a>
+                            <a class="btn btn-light btn-square rounded-circle" href="https://br.pinterest.com/lalytawellness/">
+                                <i class="fab fa-pinterest"></i>
+                            </a>                            
                         </div>
                     </div>
                 </div>
@@ -195,8 +196,8 @@
                     <h5 class="text-primary text-uppercase">About </h5>
                     <h1 class="display-3 text-uppercase mb-0">Fit.Done.Well.</h1>
                 </div>
-                <h4 class="text-body mb-4">ᴇᴍᴘᴏᴡᴇʀɪɴɢ ʙᴏᴅʏ, ᴍɪɴᴅ & sᴘɪʀɪᴛ as connected treasures, with the mission to Coach those who are ready for a <strong>Life Reset</strong></h4>
-                <p class="mb-4 text-justify">At Fit Done Well, we believe in the power of working on all aspects of your well-being—mind, body, and spirit. Our mission is to create a world where strength, kindness, and open minds lead the way. We offer personalized programs, interactive experiences, and a community that supports you every step of the way. Whether it's through physical workouts, nutritional plans, or mindful practices, we are here to help you achieve a healthier, stronger, and more fulfilling life. Join us in our journey to better priorities and a brighter future!</p>
+                <h4 class="text-body mb-4">Empowering Body.mind.spirit. as connected treasures, with the mission to Coach those who are ready for a <strong>Life.reset.program</strong></h4>
+                <p class="mb-4 text-justify">At Fit.done.well., we believe in the power of working on all aspects of your well being: Body.mind.spirit. Our mission is to create a world where strength, kindness, and open minds lead the way. We offer personalized programs, interactive experiences, and a community that supports you every step of the way. Whether it's through physical workouts, nutritional plans, or mindful practices, we are here to help you achieve a healthier, stronger, and more fulfilling life. Join us in our journey to better priorities and a brighter future!</p>
                 <div class="rounded bg-dark p-5">
                     <ul class="nav nav-pills justify-content-between mb-3">
                         <li class="nav-item w-50">
@@ -208,10 +209,10 @@
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane fade show active" id="pills-1">
-                            <p class="text-secondary mb-0 text-justify">As a company, we focus on the three fundamental pillars of being: body, mind, and spirit. We understand that true wellness comes when these elements are in balance. Our fitness programs not only challenge your body but also nurture your heart with kindness and compassion. We help you cultivate a strong mind by fostering mental clarity and resilience. Together, these pillars create a harmonious life where strength, well-being, and peace thrive.</p>
+                            <p class="text-secondary mb-0 text-justify">As a company, we focus on the three fundamental pillars of being: Body.mind.spirit, We understand that true wellness comes when these elements are in balance. Our fitness programs not only challenge your body but also nurture your heart with kindness and compassion. We help you cultivate a strong mind by fostering mental clarity and resilience. Together, these pillars create a harmonious life where strength, well-being, and peace thrive.</p>
                         </div>
                         <div class="tab-pane fade" id="pills-2">
-                            <p class="text-secondary mb-0 text-justify">At Fit Done Well, we offer more than just fitness—we provide a holistic approach to wellness. Our unique programs are designed to nurture your body, heart, and spirit, creating a balance that supports long-term health and happiness. With personalized coaching, interactive experiences, and a supportive community, we guide you every step of the way. Whether you're looking to improve your physical fitness, boost your mental clarity, or find a deeper connection to yourself, we're here to help you unlock your full potential and live a life of strength, kindness, and open-mindedness. Choose us because your well-being deserves to be treated as a whole.</p>
+                            <p class="text-secondary mb-0 text-justify">At Fit.done.well., we offer more than just fitness, we provide a holistic approach to wellness. Our unique programs are designed to nurture your Body.mind.spirit., creating a balance that supports long-term health and happiness. With personalized coaching, interactive experiences, and a supportive community, we guide you every step of the way. Whether you're looking to improve your physical fitness, boost your mental clarity, or find a deeper connection to yourself, we're here to help you unlock your full potential and live a life of strength, kindness, and open-mindedness. Choose us because your well-being deserves to be treated as a whole.</p>
                         </div>
                     </div>
                 </div>
@@ -228,9 +229,9 @@
                 <div class="bg-light rounded text-center p-5">
                     <img src="img/laly-body.jpg" alt="body" class="img-fluid">
                     <h3 class="text-uppercase my-4 fs-1">Body</h3>
-                    <p class="text-justify"><strong>  Celebrate Your Body with Strength and Vitality</strong><br><br>
+                    <p class="text-center"><strong>  Celebrate Your Body with Strength and Vitality</strong><br><br>
 
-At Fit Done Well, we believe your body is a powerful tool that deserves celebration. Our body-focused programs are designed to help you build strength, increase endurance, and achieve your fitness goals in a way that honors your unique capabilities. Whether you're engaging in full-body workouts, leg sessions, or core-focused exercises, every movement is a step toward a healthier, stronger you. With personalized routines, live sessions, and expert guidance, we empower you to embrace your body's potential and unlock its true power. Celebrate your health with every workout and transform your body into a source of confidence and vitality.</p>
+<span class="text-justify">At Fit.done.well., we believe your body is a powerful tool that deserves celebration. Our body-focused programs are designed to help you build strength, increase endurance, and achieve your fitness goals in a way that honors your unique capabilities. Whether you're engaging in full-body workouts, leg sessions, or core-focused exercises, every movement is a step toward a healthier, stronger you. With personalized routines, live sessions, and expert guidance, we empower you to embrace your body's potential and unlock its true power. Celebrate your health with every workout and transform your body into a source of confidence and vitality.</span></p>
                     <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
@@ -238,19 +239,19 @@ At Fit Done Well, we believe your body is a powerful tool that deserves celebrat
                 <div class="bg-light rounded text-center p-5">
                     <img src="img/brad-mind.jpg" class="img-fluid">
                     <h3 class="text-uppercase my-4 fs-1">Mind</h3>
-                    <p class="text-justify"><strong>  Nurture Your Mind for Clarity and Growth</strong><br><br>
+                    <p class="text-center"><strong>  Nurture Your Mind for Clarity and Growth</strong><br><br>
 
-At Fit Done Well, we understand that a strong mind is the foundation of true wellness. Our programs focus on mental clarity, resilience, and mindfulness to help you navigate life's challenges with confidence. By integrating mental exercises, journaling, and mindful habits into your routine, we empower you to stay focused, positive, and centered. Embrace the power of your mind to unlock endless possibilities for personal growth, and discover how mental strength can elevate your overall well-being. With us, your mind becomes a source of strength, peace, and limitless potential.<br><br></p>
+<span class="text-justify">At Fit.done.well., we understand that a strong mind is the foundation of true wellness. Our programs focus on mental clarity, resilience, and mindfulness to help you navigate life's challenges with confidence. By integrating mental exercises, journaling, and mindful habits into your routine, we empower you to stay focused, positive, and centered. Embrace the power of your mind to unlock endless possibilities for personal growth, and discover how mental strength can elevate your overall well-being. With us, your mind becomes a source of strength, peace, and limitless potential.</span><br><br></p>
                     <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bg-light rounded text-center p-5">
-                    <img src="img/lalucha-sol.jpg" class="img-fluid" alt="">
+                    <img src="img/spirit.jpg" class="img-fluid" alt="">
                     <h3 class="text-uppercase my-4 fs-1">Spirit</h3>
-                    <p class="text-justify">Elevate Your Spirit with Peace and Purpose<br><br>
+                    <p class="text-center"><strong>Elevate Your Spirit with Peace and Purpose</strong> <br><br>
 
-At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling life. Our programs focus on fostering inner peace, mindfulness, and a deeper connection to yourself. Through mindful activities, meditation, and holistic practices, we guide you on a journey to rediscover balance and purpose. By embracing your spirit, you open the door to greater emotional resilience, compassion, and a sense of fulfillment. Let your spirit soar, and experience the transformative power of a connected and grounded self<br><br><br> </p>
+<span class="text-justify">At Fit.done.well., we believe that nurturing your spirit is key to a fulfilling life. Our programs focus on fostering inner peace, mindfulness, and a deeper connection to yourself. Through mindful activities, meditation, and holistic practices, we guide you on a journey to rediscover balance and purpose. By embracing your spirit, you open the door to greater emotional resilience, compassion, and a sense of fulfillment. Let your spirit soar, and experience the transformative power of a connected and grounded self</span><br><br><br> </p>
                     <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
@@ -595,7 +596,7 @@ At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling l
                     <div class="testimonial-item">
                         <div class="row">
                             <div class="col-md-6">
-                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>I used to feel exhausted all the time, both physically and mentally. Fit Done Well changed everything! Now, I wake up energized, my body feels stronger, and my mind is clear. I’m finally living the life I always dreamed of.</p>
+                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>I used to feel exhausted all the time, both physically and mentally. Fit.done.well. changed everything! Now, I wake up energized, my body feels stronger, and my mind is clear. I’m finally living the life I always dreamed of.</p>
                                 <div class="d-flex align-items-center">
                                     <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
                                     <div class="ps-4">
@@ -614,7 +615,7 @@ At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling l
                     <div class="testimonial-item">
                         <div class="row">
                             <div class="col-md-6">
-                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> joined Fit Done Well for fitness, but I gained so much more. It’s not just about working out—it’s about becoming the best version of myself. My mindset has shifted, my confidence has skyrocketed, and I feel unstoppable!</p>
+                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> joined Fit.done.well. for fitness, but I gained so much more. It’s not just about working out—it’s about becoming the best version of myself. My mindset has shifted, my confidence has skyrocketed, and I feel unstoppable!</p>
                                 <div class="d-flex align-items-center">
                                     <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
                                     <div class="ps-4">
@@ -651,7 +652,7 @@ At Fit Done Well, we believe that nurturing your spirit is key to a fulfilling l
                     <div class="testimonial-item">
                         <div class="row">
                             <div class="col-md-6">
-                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>At 45, I thought it was too late to get in shape. But with Fit Done Well, I discovered that change is possible at any age. I’ve lost weight, built muscle, and most importantly, I’ve gained a whole new mindset.</p>
+                                <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>At 45, I thought it was too late to get in shape. But with Fit.done.well., I discovered that change is possible at any age. I’ve lost weight, built muscle, and most importantly, I’ve gained a whole new mindset.</p>
                                 <div class="d-flex align-items-center">
                                     <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt="">
                                     <div class="ps-4">
