@@ -46,7 +46,7 @@
 
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark p-3 p-lg-0 px-lg-5">
                     <a href="index.html" class="navbar-brand d-block d-lg-none">
-                        <h1 class="m-0   fit-font">Fit.Done.Well. <img src="/img/logo.png"  class="img-fluid" alt=""></h1>
+                        <h1 class="m-0   fit-font">Fit.Done.Well.</h1>
                         
                     </a>
                     <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -54,18 +54,20 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto py-0">
-                            <a href="index.html" class="nav-item nav-link active">Home</a>
-                            <a href="about.html" class="nav-item nav-link">About</a>
-                            <a href="class.html" class="nav-item nav-link">Coaches</a>
-                            <a href="team.html" class="nav-item nav-link">Events</a>
-                            <a href="team.html" class="nav-item nav-link">Shop</a>
+                            <a href="#" class="nav-item nav-link active">Home</a>
+                            <a href="#" class="nav-item nav-link">About</a>
+                            <a href="#" class="nav-item nav-link">Shop</a>
+                            <a href="#" class="nav-item nav-link">Testimonials</a>
+                            <a href="#" class="nav-item nav-link">Schedule</a>
+                            <a href="#" class="nav-item nav-link">Events</a>
+                            <a href="#" class="nav-item nav-link">Coaches</a>
 
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                                 <div class="dropdown-menu rounded-0 m-0">
-                                    <a href="blog.html" class="dropdown-item">Blog Grid</a>
-                                    <a href="detail.html" class="dropdown-item">Blog Detail</a>
-                                    <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                                    <a href="blog.html" class="dropdown-item">Blog Fitness</a>
+                                    <a href="detail.html" class="dropdown-item">Blog Mindfulness</a>
+                                    <a href="testimonial.html" class="dropdown-item">Blog Wholeness</a>
                                 </div>
                             </div>
                             <a href="contact.html" class="nav-item nav-link">Contact</a>
@@ -89,7 +91,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <div class="cuadro-laly">
                                 <h5 class="text-white text-uppercase">Fit.Done.Well.</h5>
-                                <h1 class="display-2 text-white mb-md-4 fs-1">Fitness - MindFullNess - Wholeness</h1>
+                                <h1 class="display-2 text-white mb-md-4 fs-1 text-uppercase">Fitness - MindFulNess - Wholeness</h1>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Join Us</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5">Contact Us</a>
                             </div>
@@ -192,7 +194,7 @@
             <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 500px;">
                 <div class="position-relative h-100">
                     <img class="position-absolute w-100 h-100 rounded img-fluid" id="img_laly_fuerte" src="img/laly-fuerte2.jpg" style="object-fit: cover;">
-                    <img class="position-absolute w-100 h-100 rounded img-fluid  d-none" id="img_brad_fuerte" src="img/brad-about.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100 rounded img-fluid  d-none" id="img_brad_fuerte" src="img/laly-fuerte2.jpg" style="object-fit: cover;">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -471,7 +473,8 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="text-secondary text-uppercase">Experience</h5>
-                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">12345</h1>
+                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">25</h1>
+                        <h3 class="text-primary">Years</h3>
                     </div>
                 </div>
             </div>
@@ -482,7 +485,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="text-secondary text-uppercase">Our Trainers</h5>
-                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">12345</h1>
+                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">3</h1>
                     </div>
                 </div>
             </div>
@@ -493,7 +496,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="text-secondary text-uppercase">Complete Project</h5>
-                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">12345</h1>
+                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">253</h1>
                     </div>
                 </div>
             </div>
@@ -504,7 +507,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="text-secondary text-uppercase">Happy Clients</h5>
-                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">12345</h1>
+                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">253</h1>
                     </div>
                 </div>
             </div>
@@ -646,11 +649,12 @@
             <div class="tab-content">
                 <div id="tab-1" class="tab-pane fade show p-0 active">
                     <div class="row g-5">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="col-lg-6 col-md-6 col-sm-12 mx-auto">
                             <div class="bg-dark rounded text-center py-5 px-3">
                                 <img src="img/fitness-event.jpg" alt="" class="img-fluid">
-                                <h6 class="text-uppercase text-light mb-3">February 24-28</h6>
-                                <h5 class="text-uppercase text-primary">Fitness.Reset.</h5>
+                                <h3 class="text-uppercase text-light mb-3 text-center"> Mar 15<br>
+Fit4ever Event  at Glory Gains Gym
+                                </h3>
                                 <p class="text-uppercase text-secondary mb-0"></p>
                             </div>
                         </div>
@@ -658,11 +662,12 @@
                 </div>
                 <div id="tab-2" class="tab-pane fade p-0">
                     <div class="row g-5">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="col-lg-6 col-md-6 col-sm-12 mx-auto">
                             <div class="bg-dark rounded text-center py-5 px-3">
                                 <img src="img/mindfulness-event.jpg" class="img-fluid" alt="">
-                                <h6 class="text-uppercase text-light mb-3">Mindfulness Events</h6>
-                                <h5 class="text-uppercase text-primary"></h5>
+                                <h3 class="text-uppercase text-light mb-3">Feb 23</h3>
+                                <h3 class="text-uppercase text-light">First Tribe Podcast at Divine Humans Center
+</h3>
                                 <p class="text-uppercase text-secondary mb-0"></p>
                             </div>
                         </div>
@@ -670,11 +675,14 @@
                 </div>
                 <div id="tab-3" class="tab-pane fade p-0">
                     <div class="row g-5">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="col-lg-6 col-md-6 col-sm-12 mx-auto">
                             <div class="bg-dark rounded text-center py-5 px-3">
                                 <img src="img/wholeness-event.jpg" class="img-fluid" alt="">
-                                <h6 class="text-uppercase text-light mb-3"></h6>
-                                <h5 class="text-uppercase text-primary">Wholeness Events</h5>
+                                <h3 class="text-uppercase text-light mb-3">April 4 - 5</h3>
+                                <h4 class="text-uppercase text-light "> 
+Revive & Thrive with the Tribe Camping at Divine Humans Center
+
+                                </h4>
                                 <p class="text-uppercase text-secondary mb-0"></p>
                             </div>
                         </div>
