@@ -123,8 +123,8 @@ h6,
     }
 
     .carousel-caption h1 {
-        font-size: 30px;
-        font-weight: 600 !important;
+        font-size: 16px !important;
+        font-weight: 400 !important;
     }
 }
 
@@ -259,6 +259,7 @@ h6,
     background-color: rgba(0,0,0,0.5) !important;
     color:black !important;
     border-radius: 15px;
+    margin-top: 75px;
 }
 
 .text-justify {

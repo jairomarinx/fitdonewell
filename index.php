@@ -30,7 +30,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css?ver=<?php rand(1,10000); ?>" rel="stylesheet">
+    <link href="css/style.css?ver=<?php echo rand(1,10000); ?>" rel="stylesheet">
 </head>
 
 <body>
@@ -54,7 +54,7 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto py-0">
-                            <a href="#" class="nav-item nav-link active">Home</a>
+                            <a href="http://fitdonewell.com" class="nav-item nav-link active">Home</a>
                             <a href="#" class="nav-item nav-link">About</a>
                             <a href="#" class="nav-item nav-link">Shop</a>
                             <a href="#" class="nav-item nav-link">Testimonials</a>
@@ -65,9 +65,9 @@
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                                 <div class="dropdown-menu rounded-0 m-0">
-                                    <a href="http://blog.fitdonewell.com" class="dropdown-item">Blog Fitness</a>
-                                    <a href="http://blog.fitdonewell.com" class="dropdown-item">Blog Mindfulness</a>
-                                    <a href="http://blog.fitdonewell.com" class="dropdown-item">Blog Wholeness</a>
+                                    <a href="http://blog.fitdonewell.com" class="dropdown-item">Strong Bodies - Blog</a>
+                                    <a href="http://blog.fitdonewell.com" class="dropdown-item">Open Minds - Blog</a>
+                                    <a href="http://blog.fitdonewell.com" class="dropdown-item">Kind Hearts - Blog</a>
                                 </div>
                             </div>
                             <a href="contact.html" class="nav-item nav-link">Contact</a>
@@ -178,10 +178,10 @@
                             <a class="btn btn-light btn-square rounded-circle me-2" href="https://www.instagram.com/fit.done.well/?locale=pt_BR&hl=am-et">
                                 <i class="fab fa-instagram"></i>
                             </a>
-                            <a class="btn btn-light btn-square rounded-circle" href="https://www.youtube.com/lalytawellness">
+                            <a class="btn btn-light btn-square rounded-circle me-2" href="https://www.youtube.com/lalytawellness">
                                 <i class="fab fa-youtube"></i>
                             </a>
-                            <a class="btn btn-light btn-square rounded-circle" href="https://br.pinterest.com/lalytawellness/">
+                            <a class="btn btn-light btn-square rounded-circle me-2" href="https://br.pinterest.com/lalytawellness/">
                                 <i class="fab fa-pinterest"></i>
                             </a>                            
                         </div>
@@ -199,11 +199,11 @@
             </div>
             <div class="col-lg-7">
                 <div class="mb-4">
-                    <h5 class="text-primary text-uppercase">About </h5>
+                    <h5 class="text-primary text-uppercase fs-3"><strong>About</strong>   </h5>
                     <h1 class="display-3 text-uppercase mb-0">Fit.Done.Well.</h1>
                 </div>
-                <h4 class="text-body mb-4">Empowering Body.mind.spirit. as connected treasures, with the mission to Coach those who are ready for a <strong>Life.reset.program</strong></h4>
-                <p class="mb-4 text-justify">At Fit.done.well., we believe in the power of working on all aspects of your well being: Body.mind.spirit. Our mission is to create a world where strength, kindness, and open minds lead the way. We offer personalized programs, interactive experiences, and a community that supports you every step of the way. Whether it's through physical workouts, nutritional plans, or mindful practices, we are here to help you achieve a healthier, stronger, and more fulfilling life. Join us in our journey to better priorities and a brighter future!</p>
+                <h4 class="text-body mb-4">Empowering <strong class="text-primary">Body.mind.spirit.</strong> as connected treasures, with the mission to Coach those who are ready for a <strong class="text-primary">Life.reset.program</strong></h4>
+                <p class="mb-4 text-justify">At <strong>Fit.done.well.</strong>, we believe in the power of working on all aspects of your well being: <strong> Body.mind.spirit.</strong> Our mission is to create a world where strength, kindness, and open minds lead the way. We offer personalized programs, interactive experiences, and a community that supports you every step of the way. Whether it's through physical workouts, nutritional plans, or mindful practices, we are here to help you achieve a healthier, stronger, and more fulfilling life. Join us in our journey to better priorities and a brighter future!</p>
                 <div class="rounded bg-dark p-5">
                     <ul class="nav nav-pills justify-content-between mb-3">
                         <li class="nav-item w-50">
@@ -1001,7 +1001,7 @@ Revive & Thrive with the Tribe Camping at Divine Humans Center
                         <h4 class="text-uppercase text-light mb-4">Get In Touch</h4>
                         <div class="d-flex mb-2">
                             <i class="bi bi-geo-alt text-primary me-2"></i>
-                            <p class="mb-0">123 Street, New York, USA</p>
+                            <p class="mb-0">Arizona</p>
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-envelope-open text-primary me-2"></i>
