@@ -65,9 +65,9 @@
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                                 <div class="dropdown-menu rounded-0 m-0">
-                                    <a href="blog.html" class="dropdown-item">Blog Fitness</a>
-                                    <a href="detail.html" class="dropdown-item">Blog Mindfulness</a>
-                                    <a href="testimonial.html" class="dropdown-item">Blog Wholeness</a>
+                                    <a href="http://blog.fitdonewell.com" class="dropdown-item">Blog Fitness</a>
+                                    <a href="http://blog.fitdonewell.com" class="dropdown-item">Blog Mindfulness</a>
+                                    <a href="http://blog.fitdonewell.com" class="dropdown-item">Blog Wholeness</a>
                                 </div>
                             </div>
                             <a href="contact.html" class="nav-item nav-link">Contact</a>
@@ -936,7 +936,7 @@ Revive & Thrive with the Tribe Camping at Divine Humans Center
 
 
     <!-- Blog Start -->
-    <div class="container-fluid p-5">
+    <div class="container-fluid p-5 d-none">
         <div class="mb-5 text-center">
             <h5 class="text-primary text-uppercase">Our Blog</h5>
             <h1 class="display-3 text-uppercase mb-0">Latest Blog Post</h1>
