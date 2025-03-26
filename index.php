@@ -56,7 +56,7 @@
                         <div class="navbar-nav mr-auto py-0">
                             <a href="http://fitdonewell.com" class="nav-item nav-link active">Home</a>
                             <a href="#" class="nav-item nav-link">About</a>
-                            <a href="#" class="nav-item nav-link">Shop</a>
+                            <a href="http://fitdonewell.com/shop" class="nav-item nav-link">Shop</a>
                             <a href="#" class="nav-item nav-link">Testimonials</a>
                             <a href="#" class="nav-item nav-link">Schedule</a>
                             <a href="#" class="nav-item nav-link">Events</a>
@@ -193,8 +193,8 @@
         <div class="row gx-5">
             <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded img-fluid" id="img_laly_fuerte" src="img/laly-fuerte2.jpg" style="object-fit: cover;">
-                    <img class="position-absolute w-100 h-100 rounded img-fluid  d-none" id="img_brad_fuerte" src="img/laly-fuerte2.jpg " style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100 rounded img-fluid" id="img_laly_fuerte" src="img/laly-fuerte2.jpg" style="object-fit: cover; object-position: top;">
+                    <img class="position-absolute w-100 h-100 rounded img-fluid  d-none" id="img_brad_fuerte" src="img/brad-fuerte-about.png" style="object-fit: cover; object-position: top;">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -202,8 +202,8 @@
                     <h5 class="text-primary text-uppercase fs-3"><strong>About</strong>   </h5>
                     <h1 class="display-3 text-uppercase mb-0">Fit.Done.Well.</h1>
                 </div>
-                <h4 class="text-body mb-4">Empowering <strong class="text-primary">Body.mind.spirit.</strong> as connected treasures, with the mission to Coach those who are ready for a <strong class="text-primary">Life.reset.program</strong></h4>
-                <p class="mb-4 text-justify">At <strong>Fit.done.well.</strong>, we believe in the power of working on all aspects of your well being: <strong> Body.mind.spirit.</strong> Our mission is to create a world where strength, kindness, and open minds lead the way. We offer personalized programs, interactive experiences, and a community that supports you every step of the way. Whether it's through physical workouts, nutritional plans, or mindful practices, we are here to help you achieve a healthier, stronger, and more fulfilling life. Join us in our journey to better priorities and a brighter future!</p>
+                <h4 class="text-body mb-4">Empowering <strong class="text-primary">Body.Mind.Spirit.</strong> as connected treasures, with the mission to Coach those who are ready for a <strong class="text-primary">Life.Reset.Program.</strong></h4>
+                <p class="mb-4 text-justify">At <strong>Fit.Done.Well.</strong>, we believe in the power of working on all aspects of your well being: <strong> Body.Mind.Spirit.</strong> Our mission is to create a world where strength, kindness, and open minds lead the way. We offer personalized programs, interactive experiences, and a community that supports you every step of the way. Whether it's through physical workouts, nutritional plans, or mindful practices, we are here to help you achieve a healthier, stronger, and more fulfilling life. Join us in our journey to better priorities and a brighter future!</p>
                 <div class="rounded bg-dark p-5">
                     <ul class="nav nav-pills justify-content-between mb-3">
                         <li class="nav-item w-50">
@@ -215,10 +215,10 @@
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane fade show active" id="pills-1">
-                            <p class="text-secondary mb-0 text-justify">As a company, we focus on the three fundamental pillars of being: Body.mind.spirit, We understand that true wellness comes when these elements are in balance. Our fitness programs not only challenge your body but also nurture your heart with kindness and compassion. We help you cultivate a strong mind by fostering mental clarity and resilience. Together, these pillars create a harmonious life where strength, well-being, and peace thrive.</p>
+                            <p class="text-secondary mb-0 text-justify">As a company, we focus on the three fundamental pillars of being: Body.Mind.Spirit, We understand that true wellness comes when these elements are in balance. Our fitness programs not only challenge your body but also nurture your heart with kindness and compassion. We help you cultivate a strong mind by fostering mental clarity and resilience. Together, these pillars create a harmonious life where strength, well-being, and peace thrive.</p>
                         </div>
                         <div class="tab-pane fade" id="pills-2">
-                            <p class="text-secondary mb-0 text-justify">At Fit.done.well., we offer more than just fitness, we provide a holistic approach to wellness. Our unique programs are designed to nurture your Body.mind.spirit., creating a balance that supports long-term health and happiness. With personalized coaching, interactive experiences, and a supportive community, we guide you every step of the way. Whether you're looking to improve your physical fitness, boost your mental clarity, or find a deeper connection to yourself, we're here to help you unlock your full potential and live a life of strength, kindness, and open-mindedness. Choose us because your well-being deserves to be treated as a whole.</p>
+                            <p class="text-secondary mb-0 text-justify">At Fit.Done.Well., we offer more than just fitness, we provide a holistic approach to wellness. Our unique programs are designed to nurture your Body.Mind.Spirit., creating a balance that supports long-term health and happiness. With personalized coaching, interactive experiences, and a supportive community, we guide you every step of the way. Whether you're looking to improve your physical fitness, boost your mental clarity, or find a deeper connection to yourself, we're here to help you unlock your full potential and live a life of strength, kindness, and open-mindedness. Choose us because your well-being deserves to be treated as a whole.</p>
                         </div>
                     </div>
                 </div>
@@ -227,6 +227,10 @@
     </div>
     <!-- About End -->
 
+    <div class="mb-5 text-center">
+            <h1 class="display-3 text-uppercase mb-0">OUR THREE PILLARS</h1>
+            <h5 class="text-gray fs-2">Developing <span class="text-primary"> Strong Bodies • Open Minds • Kind Hearts • </span> with the aim to unlock your Best Life </h5>
+    </div>
 
     <!-- Programe Start -->
     <div class="container-fluid programe position-relative px-5 mt-5" style="margin-bottom: 135px;">
@@ -234,30 +238,30 @@
             <div class="col-lg-4 col-md-6">
                 <div class="bg-light rounded text-center p-5">
                     <img src="img/laly-body.jpg" alt="body" class="img-fluid">
-                    <h3 class="text-uppercase my-4 fs-1">Body</h3>
-                    <p class="text-center"><strong>  Celebrate Your Body with Strength and Vitality</strong><br><br>
+                    <h3 class="text-uppercase my-4 fs-1">Strong Bodies</h3>
+                    <p class="text-center text-uppercase"><strong>  Celebrate Your Body with Strength and Vitality</strong><br><br></p>
 
-<span class="text-justify">At Fit.done.well., we believe your body is a powerful tool that deserves celebration. Our body-focused programs are designed to help you build strength, increase endurance, and achieve your fitness goals in a way that honors your unique capabilities. Whether you're engaging in full-body workouts, leg sessions, or core-focused exercises, every movement is a step toward a healthier, stronger you. With personalized routines, live sessions, and expert guidance, we empower you to embrace your body's potential and unlock its true power. Celebrate your health with every workout and transform your body into a source of confidence and vitality.</span></p>
+<span class="text-justify">At Fit.Done.Well., we believe your body is a powerful tool that deserves celebration. Our body-focused programs are designed to help you build strength, increase endurance, and achieve your fitness goals in a way that honors your unique capabilities. Whether you're engaging in full-body workouts, leg sessions, or core-focused exercises, every movement is a step toward a healthier, stronger you. With personalized routines, live sessions, and expert guidance, we empower you to embrace your body's potential and unlock its true power. Celebrate your health with every workout and transform your body into a source of confidence and vitality.</span></p>
                     <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bg-light rounded text-center p-5">
                     <img src="img/brad-mind.jpg" class="img-fluid">
-                    <h3 class="text-uppercase my-4 fs-1">Mind</h3>
-                    <p class="text-center"><strong>  Nurture Your Mind for Clarity and Growth</strong><br><br>
+                    <h3 class="text-uppercase my-4 fs-1">Open Minds</h3>
+                    <p class="text-center text-uppercase"><strong>  Nurture Your Mind for Clarity and Growth</strong><br><br></p>
 
-<span class="text-justify">At Fit.done.well., we understand that a strong mind is the foundation of true wellness. Our programs focus on mental clarity, resilience, and mindfulness to help you navigate life's challenges with confidence. By integrating mental exercises, journaling, and mindful habits into your routine, we empower you to stay focused, positive, and centered. Embrace the power of your mind to unlock endless possibilities for personal growth, and discover how mental strength can elevate your overall well-being. With us, your mind becomes a source of strength, peace, and limitless potential.</span><br><br></p>
+<span class="text-justify">At Fit.Done.Well., we understand that a strong mind is the foundation of true wellness. Our programs focus on mental clarity, resilience, and mindfulness to help you navigate life's challenges with confidence. By integrating mental exercises, journaling, and mindful habits into your routine, we empower you to stay focused, positive, and centered. Embrace the power of your mind to unlock endless possibilities for personal growth, and discover how mental strength can elevate your overall well-being. With us, your mind becomes a source of strength, peace, and limitless potential.</span><br><br></p>
                     <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="bg-light rounded text-center p-5">
                     <img src="img/spirit.jpg" class="img-fluid" alt="">
-                    <h3 class="text-uppercase my-4 fs-1">Spirit</h3>
-                    <p class="text-center"><strong>Elevate Your Spirit with Peace and Purpose</strong> <br><br>
+                    <h3 class="text-uppercase my-4 fs-1">Kind Hearts</h3>
+                    <p class="text-center text-uppercase"><strong>Elevate Your Spirit with Peace and Purpose</strong> <br><br>
 
-<span class="text-justify">At Fit.done.well., we believe that nurturing your spirit is key to a fulfilling life. Our programs focus on fostering inner peace, mindfulness, and a deeper connection to yourself. Through mindful activities, meditation, and holistic practices, we guide you on a journey to rediscover balance and purpose. By embracing your spirit, you open the door to greater emotional resilience, compassion, and a sense of fulfillment. Let your spirit soar, and experience the transformative power of a connected and grounded self</span><br><br><br> </p>
+<span class="text-justify">At Fit.Done.Well., we believe that nurturing your spirit is key to a fulfilling life. Our programs focus on fostering inner peace, mindfulness, and a deeper connection to yourself. Through mindful activities, meditation, and holistic practices, we guide you on a journey to rediscover balance and purpose. By embracing your spirit, you open the door to greater emotional resilience, compassion, and a sense of fulfillment. Let your spirit soar, and experience the transformative power of a connected and grounded self</span><br><br><br> </p>
                     <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
@@ -274,7 +278,7 @@
     <!-- Class Timetable Start -->
     <div class="container-fluid px-0">
         <div class="mb-5 text-center">
-            <h5 class="text-primary text-uppercase">Our Schedule</h5>
+            <h5 class="text-primary text-uppercase fs-2"><strong>Our Schedule</strong> </h5>
             <h1 class="display-3 text-uppercase mb-0">Life-Building Hours</h1>
         </div>
         <div class="horario">
@@ -631,7 +635,7 @@
      <!-- Class Timetable Start -->
      <div class="container-fluid p-5">
         <div class="mb-5 text-center">
-            <h5 class="text-primary text-uppercase">Change your life</h5>
+            <h5 class="text-primary text-uppercase fs-3"><strong>Change your life</strong> </h5>
             <h1 class="display-3 text-uppercase mb-0">EVENTS</h1>
         </div>
         <div class="tab-class text-center">
@@ -1055,7 +1059,7 @@ Revive & Thrive with the Tribe Camping at Divine Humans Center
         <div class="row gx-5">
             <div class="col-lg-8">
                 <div class="py-lg-4 text-center">
-                    <p class="text-secondary mb-0">&copy; <a class="text-light fw-bold" href="#">Fit.done.well.</a>. All Rights Reserved.</p>
+                    <p class="text-secondary mb-0">&copy; <a class="text-light fw-bold" href="#">Fit.Done.Well.</a>. All Rights Reserved.</p>
                 </div>
             </div>
             <div class="col-lg-4">
