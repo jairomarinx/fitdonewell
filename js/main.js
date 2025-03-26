@@ -68,5 +68,28 @@
     
 })(jQuery);
 
+function read_more(c)
+{
+    if(c == 1)
+    {
+        $("#id_c1").removeClass("d-none");
+        $("#id_read1").addClass("d-none");
 
+    }
+
+    if(c == 2)
+        {
+            $("#id_c2").removeClass("d-none");
+            $("#id_read2").addClass("d-none");
+
+        }
+
+    if(c == 3)
+        {
+            $("#id_c3").removeClass("d-none");
+            $("#id_read3").addClass("d-none");
+        }
+        
+
+}
 
