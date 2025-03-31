@@ -307,210 +307,44 @@
 
     <div class="col-lg-12 col-md-12 text-center">                
                 <h1 class="display-3 text-uppercase mb-2">Visit Our Shop</h1>
-
-                <div class="marquee-container">
-                    <div class="marquee-content">
-                        <img src="shop/assets/images/band1.webp" alt="Shop Image">
-                        <img src="shop/assets/images/disk1.webp" alt="Shop Image">
-                        <img src="shop/assets/images/sujetador1.webp" alt="Shop Image">
-                        <img src="shop/assets/images/laly-band1.webp" alt="Shop Image">
-                        <img src="shop/assets/images/laly-band3.webp" alt="Shop Image">
+                <a href="http://fitdonewell.com/shop" >
+                    <div class="marquee-container">
+                        <div class="marquee-content">
+                            <img src="shop/assets/images/band1.webp" alt="Shop Image">
+                            <img src="shop/assets/images/disk1.webp" alt="Shop Image">
+                            <img src="shop/assets/images/sujetador1.webp" alt="Shop Image">
+                            <img src="shop/assets/images/laly-band1.webp" alt="Shop Image">
+                            <img src="shop/assets/images/laly-band3.webp" alt="Shop Image">
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
     
 
-    <!-- Class Timetable Start -->
-    <div class="container-fluid px-0">
+    <div class="container px-0 mt-3 mb-3">
         <div class="mb-5 text-center">
-            <h5 class="text-primary text-uppercase fs-2"><strong>Our Schedule</strong> </h5>
-            <h1 class="display-3 text-uppercase mb-0">Life-Building Hours</h1>
-        </div>
-        <div class="horario">
-            <div class="container mt-4">
-                <div class="row">
-
-                    <div class="col-md-2">
-                        <div class="horario-header">
-                            <h5 class="text-center">Monday</h5>
-                        </div>
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
-                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-                    </div>    
-                    
-                    <div class="col-md-2">
-                        <div class="horario-header">
-                            <h5 class="text-center">Tuesday</h5>
-                        </div>
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>                            
-                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">                            
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-                    </div>                     
-
-                    <div class="col-md-2">
-                        <div class="horario-header">
-                            <h5 class="text-center">Wednesday </h5>
-                        </div>
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
-                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-                    </div>   
-                    
-                    <div class="col-md-2">
-                        <div class="horario-header">
-                            <h5 class="text-center">Thursday  </h5>
-                        </div>
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
-                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-                    </div>    
-                    
-
-                    <div class="col-md-2">
-                        <div class="horario-header">
-                            <h5 class="text-center">Friday  </h5>
-                        </div>
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
-                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-                    </div>                     
-
-                    <div class="col-md-2">
-                        <div class="horario-header">
-                            <h5 class="text-center">Saturday   </h5>
-                        </div>
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">7:00-9:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">8:00-10:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Brad Peterson</span>
-                            <img src="img/icono-brad.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div class="horario-body text-center">
-                            <span class="text-center d-block fs-5"> <strong>Fit-Reset</strong>  </span>
-                            <span class="text-center text-secondary d-block fs-6">11:00-13:00</span>
-                            <span class="text-center text-secondary d-block fs-6">Laly Pena</span>
-                            <img src="img/icono-laly.jpg" class="img-fluid" alt="">
-                        </div>
-                    </div>                      
-                    
-
-                </div>
-
-
-                
-                
-                  
-
-
-
-
-        
-                
-
-                
-
-
-
-
+            <h5 class="text-primary text-uppercase fs-2 "><strong>Our Shop in Amazon</strong> </h5>
+            <div class="row">
+            <div class="col-md-4">
+                <a href="https://www.amazon.com/dp/B0DWD4HJHW?ref=cm_sw_r_cso_cp_apin_dp_9QEGMNZJJGAYAZ2GXD2H_1&ref_=cm_sw_r_cso_cp_apin_dp_9QEGMNZJJGAYAZ2GXD2H_1&social_share=cm_sw_r_cso_cp_apin_dp_9QEGMNZJJGAYAZ2GXD2H_1&starsLeft=1&th=1">
+                    <img src="img/amazon1.jpg" alt="" class="img-fluid">
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="https://www.amazon.com/dp/B0DYQHZ5XF?ref=cm_sw_r_cso_cp_apin_dp_XMXPSFNATSTK190DG725&ref_=cm_sw_r_cso_cp_apin_dp_XMXPSFNATSTK190DG725&social_share=cm_sw_r_cso_cp_apin_dp_XMXPSFNATSTK190DG725&starsLeft=1">
+                    <img src="img/amazon2.jpg" alt="" class="img-fluid">
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="https://www.amazon.com/dp/B0DYQRDRYK?ref=cm_sw_r_cso_cp_apin_dp_D2XP34KXT15212N5K7QC&ref_=cm_sw_r_cso_cp_apin_dp_D2XP34KXT15212N5K7QC&social_share=cm_sw_r_cso_cp_apin_dp_D2XP34KXT15212N5K7QC&starsLeft=1">
+                    <img src="img/amazon3.jpg" alt="" class="img-fluid">
+                </a>
+            </div>
             </div>
         </div>
     </div>
-    <!-- Class Timetable Start -->
-    
+
+  
 
     <!-- Facts Start -->
     <div class="container-fluid bg-dark facts p-5 my-5">
@@ -533,7 +367,7 @@
                         <i class="fa fa-users fs-4 text-white"></i>
                     </div>
                     <div class="ps-4">
-                        <h5 class="text-secondary text-uppercase">Our Trainers</h5>
+                        <h5 class="text-secondary text-uppercase">Our Coaches</h5>
                         <h1 class="display-5 text-white mb-0" data-toggle="counter-up">3</h1>
                     </div>
                 </div>
@@ -545,7 +379,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="text-secondary text-uppercase">Complete Project</h5>
-                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">253</h1>
+                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">453</h1>
                     </div>
                 </div>
             </div>
@@ -556,7 +390,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="text-secondary text-uppercase">Happy Clients</h5>
-                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">253</h1>
+                        <h1 class="display-5 text-white mb-0" data-toggle="counter-up">757</h1>
                     </div>
                 </div>
             </div>
@@ -638,42 +472,232 @@
     <!-- Testimonial Start -->
     <div class="container-fluid p-0 my-5">
         <div class="row g-0">
-            <div class="col-lg-6" style="min-height: 500px;">
+            <div class="col-md-12 col-lg-6" style="min-height: 500px;">
                 <div class="position-relative h-100">
-                    <img class="img-fluid" src="img/korey-laly.jpg" style="object-fit: cover;">
+                    <img class="img-fluid w-100 h-100  object-fit-cover" src="img/korey-laly.jpg" style="object-position: top;">
                 </div>
             </div>
-            <div class="col-lg-6 bg-dark p-5">
+            <div class="col-md-12 col-lg-6 bg-dark p-5">
                 <div class="mb-1">
                     <h1 class="display-3 text-uppercase text-primary mb-0">Testimonials</h1>
                 </div>
                 <div class="owl-carousel testimonial-carousel">
                     <div class="testimonial-item">
-                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat dolor rebum sit ipsum.</p>
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>I am 48 years old, mother of three and I am in the best shape of my life thanks to <span class="text-primary">Fit.Done.Well.</span>  Now I want to be a Trainer and help other women like me to achieve their best.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid rounded-1" src="img/testimonial1.jpg" alt="">
+                            <img class="img-fluid rounded-1" src="img/testimonio1-korey.jpg" alt="">
                             <div class="ps-4">
-                                <h5 class="text-uppercase text-light">Client Name</h5>
-                                <span class="text-uppercase text-secondary">Profession</span>
+                                <h5 class="text-uppercase text-light">Corey Deluca</h5>
+                                <span class="text-uppercase text-secondary">Trainer</span>
                             </div>
                         </div>
                     </div>
                     <div class="testimonial-item">
-                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat dolor rebum sit ipsum.</p>
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i>I have always dreamed of having a flat stomach and only by putting in real work guided by <span class="text-primary">Fit.Done.Well.</span>  have I achieved it.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid rounded-1" src="img/testimonial2.jpg" alt="">
+                            <img class="img-fluid rounded-1" src="img/testimonio2.jpeg" alt="">
                             <div class="ps-4">
-                                <h5 class="text-uppercase text-light">Client Name</h5>
-                                <span class="text-uppercase text-secondary">Profession</span>
+                                <h5 class="text-uppercase text-light">Rebecca Mulan</h5>
+                                <span class="text-uppercase text-secondary"></span>
                             </div>
                         </div>
                     </div>
+
+                    <div class="testimonial-item">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> Being a mother of 4 and over 40 years old can be scary and demotivating when trying to keep a fit body, but thanks to <span class="text-primary"> Fit.Done.Well</span> I have understood that age and motherhood are not excuses if we put in the proper work.</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/testimonio3.jpg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">Anna York</h5>
+                                <span class="text-uppercase text-secondary"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> Being an athlete after 50 has been definitely challenging but not impossible and <strong class="text-primary"> Fit.Done.Well.</strong> has offered me the best guide in order to keep my physique strong and free of injuries. </p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/testimonio4.jpeg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">Kim Landen</h5>
+                                <span class="text-uppercase text-secondary"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> After having two babies and losing all motivation to be fit, I recovered myself by participating in my first Fitness Show.  I won first place and recovered my confidence thanks to Fit.Done.Well. </p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/testimonio-michelle.jpg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">Michelle Gibson</h5>
+                                <span class="text-uppercase text-secondary"></span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="testimonial-item">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> It’s easy to say that a trainer pushes you to your limits but Fit.Done.Well pushed boundaries and set new limits. Molded a 200 pound kid into a self disciplined, and self-made individual.
+                        </p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/testimonio-john.jpg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">John Schindler</h5>
+                                <span class="text-uppercase text-secondary"></span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="testimonial-item">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> Thanks to <strong class="text-primary"> Fit.Done.Well.</strong> now I understand the difference between having a skinny fat body and a fit body. One takes restrictions and the other fun dedication. 
+
+                        </p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/test-ora.jpg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">Maibritt Phalen</h5>
+                                <span class="text-uppercase text-secondary"></span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="testimonial-item">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> Ty trains with <strong class="text-primary"> Fit.Done.Well.</strong> three times a week for 10 years now and has made amazing strides in strength, flexibility, balance, and overall function. He has also developed quite an amazingly strong friendship and bond that has helped immensely to his healing and confidence.Dianne Roberson, Ty’s mother.
+ 
+
+                        </p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/test-nin.jpg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">Ty Roberson</h5>
+                                <span class="text-uppercase text-secondary"></span>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="testimonial-item">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> Idan is thirsty for knowledge and loves training with <strong class="text-primary"> Fit.Done.Well.</strong>  They are experts at Sport Performance and demand everything to be precise, always with a fun and positive spirit. Nahum Hollingsworth, Idan’s father
+                        </p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/test-nin2.jpg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">Idan Hollingsworth </h5>
+                                <span class="text-uppercase text-secondary"></span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="testimonial-item">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> <strong class="text-primary"> Fit.Done.Well </strong> changed my focus and made me think more positively about myself instead of constantly criticizing myself.  I didn’t know I could build muscle at my age.
+                        </p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/test-purp.jpg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">Christina Baggers </h5>
+                                <span class="text-uppercase text-secondary"></span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="testimonial-item">
+                        <p class="fs-4 fw-normal text-light mb-4"><i class="fa fa-quote-left text-primary me-3"></i> Building my abs was a dream that turned into a goal and then an achievement after following the <strong class="text-primary"> Fit.Done.Well</strong> Program.
+                        </p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid rounded-1" src="img/test-mic.jpg" alt="">
+                            <div class="ps-4">
+                                <h5 class="text-uppercase text-light">Michael Stuart</h5>
+                                <span class="text-uppercase text-secondary"></span>
+                            </div>
+                        </div>
+                    </div>
+
+
                 </div>
             </div>
         </div>
     </div>
 
     
+    <div class="container-fluid p-5">
+        <div class="mb-5 text-center">
+            <h5 class="text-primary text-uppercase"></h5>
+            <h1 class="display-3 text-uppercase mb-0">Schedule a Consultation</h1>
+        </div>
+        <div class="row g-5">
+        <div class="col-lg-4 col-md-6">
+                <div class="team-item position-relative">
+                    <div class="position-relative overflow-hidden rounded">
+                        <img class="img-fluid w-100" src="img/laly-montana.webp" alt="">
+                        <div class="team-overlay">
+                            <div class="d-flex align-items-center justify-content-start">
+                                <a class="btn btn-light btn-square rounded-circle mx-1" href="tel:+19542264294"><i class="fas fa-phone"></i>  </a>
+                                <a class="btn btn-light btn-square rounded-circle mx-1" href="tel:+16025271055"><i class="fas fa-phone"></i> </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="position-absolute start-0 bottom-0 w-100 rounded-bottom text-center p-4" style="background: rgba(34, 36, 41, .9);">
+                        <h5 class="text-uppercase text-primary">Life.Reset.Consultation</h5>
+                        <p class="text-uppercase text-secondary m-0">$199.00</p>
+                        <p class="text-uppercase text-secondary m-0"><i class="fas fa-phone"></i>  +1 954-226-4294  +1 602-527-1055</p>
+
+                    </div>
+                </div>
+            </div> 
+
+            <div class="col-lg-4 col-md-6">
+                <div class="team-item position-relative">
+                    <div class="position-relative overflow-hidden rounded">
+                        <img class="img-fluid w-100" src="img/fitness-consultation.webp" alt="">
+                        <div class="team-overlay">
+                            <div class="d-flex align-items-center justify-content-start">
+                                <a class="btn btn-light btn-square rounded-circle mx-1" href="tel:+19542264294"><i class="fas fa-phone"></i>  </a>
+                                <a class="btn btn-light btn-square rounded-circle mx-1" href="tel:+16025271055"><i class="fas fa-phone"></i> </a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="position-absolute start-0 bottom-0 w-100 rounded-bottom text-center p-4" style="background: rgba(34, 36, 41, .9);">
+                        <h5 class="text-uppercase text-primary">Fitness.Reset.Consultation.</h5>
+                        <p class="text-uppercase text-secondary m-0">$199.00</p>
+                        <p class="text-uppercase text-secondary m-0"><i class="fas fa-phone"></i>  +1 954-226-4294  +1 602-527-1055</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="team-item position-relative">
+                    <div class="position-relative overflow-hidden rounded">
+                        <img class="img-fluid w-100" src="img/brad-fitness.webp" alt="">
+                        <div class="team-overlay">
+                            <div class="d-flex align-items-center justify-content-start">
+                                <a class="btn btn-light btn-square rounded-circle mx-1" href="tel:+19542264294"><i class="fas fa-phone"></i>  </a>
+                                <a class="btn btn-light btn-square rounded-circle mx-1" href="tel:+16025271055"><i class="fas fa-phone"></i> </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="position-absolute start-0 bottom-0 w-100 rounded-bottom text-center p-4" style="background: rgba(34, 36, 41, .9);">
+                        <h5 class="text-uppercase text-primary">Personal.Fitness.Training.</h5>
+                        <p class="text-uppercase text-secondary m-0">$129.00</p>
+                        <p class="text-uppercase text-secondary m-0"><i class="fas fa-phone"></i>  +1 954-226-4294  +1 602-527-1055</p>
+                    </div>
+                </div>
+            </div>
+
+           
+
+        </div>
+    </div>
+    <!-- Team End -->
+    
+
+
+
     <!-- Testimonial End -->
 
 
@@ -681,7 +705,7 @@
      <div class="container-fluid p-5">
         <div class="mb-5 text-center">
             <h5 class="text-primary text-uppercase fs-3"><strong>Change your life</strong> </h5>
-            <h1 class="display-3 text-uppercase mb-0">EVENTS</h1>
+            <h1 class="display-3 text-uppercase mb-0"> RESET YOUR LIFE EVENTS</h1>
         </div>
         <div class="tab-class text-center">
             <ul class="nav nav-pills d-inline-flex justify-content-center bg-dark text-uppercase rounded-pill mb-5">
@@ -699,10 +723,13 @@
                 <div id="tab-1" class="tab-pane fade show p-0 active">
                     <div class="row g-5">
                         <div class="col-lg-6 col-md-6 col-sm-12 mx-auto">
-                            <div class="bg-dark rounded text-center py-5 px-3">
+                            <div class="bg-dark rounded text-center py-3 px-3">
                                 <img src="img/fitness-event.jpg" alt="" class="img-fluid">
-                                <h3 class="text-uppercase text-light mb-3 text-center"> Mar 15<br>
-Fit4ever Event  at Glory Gains Gym
+                                <h3 class="text-uppercase text-light mb-3 text-center">
+                                    Mar 15<br>
+                                    Fit4ever Event<br>  
+                                    at Glory Gains Gym<br>
+                                    <a href="#" class="btn btn-primary">Sign Up</a>
                                 </h3>
                                 <p class="text-uppercase text-secondary mb-0"></p>
                             </div>
@@ -712,12 +739,12 @@ Fit4ever Event  at Glory Gains Gym
                 <div id="tab-2" class="tab-pane fade p-0">
                     <div class="row g-5">
                         <div class="col-lg-6 col-md-6 col-sm-12 mx-auto">
-                            <div class="bg-dark rounded text-center py-5 px-3">
+                            <div class="bg-dark rounded text-center py-3 px-3">
                                 <img src="img/mindfulness-event.jpg" class="img-fluid" alt="">
-                                <h3 class="text-uppercase text-light mb-3">Feb 23</h3>
-                                <h3 class="text-uppercase text-light">First Tribe Podcast at Divine Humans Center
-</h3>
-                                <p class="text-uppercase text-secondary mb-0"></p>
+                                <h3 class="text-uppercase text-light mb-3">Feb 23
+                                <h3 class="text-uppercase text-light">First Tribe Podcast</h3>
+                                <h3 class="text-uppercase text-light">at Divine Humans Center</h3>
+                                <h3> <a href="#" class="btn btn-primary">Sign Up</a> </h3>
                             </div>
                         </div>
                     </div>
@@ -728,10 +755,10 @@ Fit4ever Event  at Glory Gains Gym
                             <div class="bg-dark rounded text-center py-5 px-3">
                                 <img src="img/wholeness-event.jpg" class="img-fluid" alt="">
                                 <h3 class="text-uppercase text-light mb-3">April 4 - 5</h3>
-                                <h4 class="text-uppercase text-light "> 
-Revive & Thrive with the Tribe Camping at Divine Humans Center
+                                <h3 class="text-uppercase text-light "> Revive & Thrive with the Tribe Camping</h3>
+                                <h3 class="text-uppercase text-light "> at Divine Humans Center</h3>
+                                <h3><a href=""></a></h3>
 
-                                </h4>
                                 <p class="text-uppercase text-secondary mb-0"></p>
                             </div>
                         </div>
