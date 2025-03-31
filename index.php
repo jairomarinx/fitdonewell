@@ -439,7 +439,7 @@
                     </div>
                     <div class="position-absolute start-0 bottom-0 w-100 rounded-bottom text-center p-4" style="background: rgba(34, 36, 41, .9);">
                         <h5 class="text-uppercase text-light">Brad Peterson</h5>
-                        <p class="text-uppercase text-secondary m-0">Trainer</p>
+                        <p class="text-uppercase text-secondary m-0">Coach</p>
                     </div>
                 </div>
             </div>
@@ -457,7 +457,7 @@
                     </div>
                     <div class="position-absolute start-0 bottom-0 w-100 rounded-bottom text-center p-4" style="background: rgba(34, 36, 41, .9);">
                         <h5 class="text-uppercase text-light">Laly Peña</h5>
-                        <p class="text-uppercase text-secondary m-0">Trainer</p>
+                        <p class="text-uppercase text-secondary m-0">Coach</p>
                     </div>
                 </div>
             </div>
@@ -741,7 +741,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-12 mx-auto">
                             <div class="bg-dark rounded text-center py-3 px-3">
                                 <img src="img/mindfulness-event.jpg" class="img-fluid" alt="">
-                                <h3 class="text-uppercase text-light mb-3">Feb 23
+                                <h3 class="text-uppercase text-light mb-3">Mar 09
                                 <h3 class="text-uppercase text-light">First Tribe Podcast</h3>
                                 <h3 class="text-uppercase text-light">at Divine Humans Center</h3>
                                 <h3> <a href="#" class="btn btn-primary">Sign Up</a> </h3>
@@ -752,12 +752,13 @@
                 <div id="tab-3" class="tab-pane fade p-0">
                     <div class="row g-5">
                         <div class="col-lg-6 col-md-6 col-sm-12 mx-auto">
-                            <div class="bg-dark rounded text-center py-5 px-3">
+                            <div class="bg-dark rounded text-center py-3 px-3">
                                 <img src="img/wholeness-event.jpg" class="img-fluid" alt="">
                                 <h3 class="text-uppercase text-light mb-3">April 4 - 5</h3>
                                 <h3 class="text-uppercase text-light "> Revive & Thrive with the Tribe Camping</h3>
                                 <h3 class="text-uppercase text-light "> at Divine Humans Center</h3>
-                                <h3><a href=""></a></h3>
+                                <h3> <a href="#" class="btn btn-primary">Sign Up</a> </h3>
+                                
 
                                 <p class="text-uppercase text-secondary mb-0"></p>
                             </div>
